@@ -1,5 +1,6 @@
   This is a very simple particle filter example prompted by
-Stanford's Intro to AI lectures.
+Stanford's Intro to AI lectures. You can see a demo of it running
+at http://www.screenr.com/MWS7.
 
   A robot is placed in a maze. It has no idea where it is, and
 its only sensor can measure the approximate distance to the nearest
